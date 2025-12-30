@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+pickle5
+joblib
+huggingface_hub
+scikit-learn
